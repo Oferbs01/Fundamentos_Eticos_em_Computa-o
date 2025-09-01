@@ -1,4 +1,4 @@
-# Fundamentos_Eticos_em_Computa-o
+# Fundamentos_Eticos_em_Computacao
 Pesquisa sobre Fundamentos Éticos em computação em carros autônomos
 - Viés e Justiça
 - Transparência e Explicabilidade
